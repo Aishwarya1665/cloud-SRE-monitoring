@@ -1,0 +1,6 @@
+@CloudSRE.API_HostAddress = http://localhost:5160
+
+GET {{CloudSRE.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
